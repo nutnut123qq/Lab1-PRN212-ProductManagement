@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hahuy\\Desktop\\Lab1-hoang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D440D-4178-4F46-8043-F2CDD4819885}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\hahuy\\desktop\\lab1-hoang\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D440D-4178-4F46-8043-F2CDD4819885}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A2BB36-E53E-472D-A3ED-E2B8C49A3FAD}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\hahuy\\desktop\\lab1-hoang\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A2BB36-E53E-472D-A3ED-E2B8C49A3FAD}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CADB574-B892-4F4C-B9AA-33645BEEE7A5}|WPFApp\\WPFApp.csproj|c:\\users\\hahuy\\desktop\\lab1-hoang\\wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CADB574-B892-4F4C-B9AA-33645BEEE7A5}|WPFApp\\WPFApp.csproj|solutionrelative:wpfapp\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Lab1-hoang\\BusinessObjects\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Lab1-hoang\\BusinessObjects\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:31:51.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Lab1-hoang\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Lab1-hoang\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:31:46.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hahuy\\Desktop\\Lab1-hoang\\WPFApp\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WPFApp\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\hahuy\\Desktop\\Lab1-hoang\\WPFApp\\LoginWindow.xaml",
+              "RelativeToolTip": "WPFApp\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T07:31:35.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
